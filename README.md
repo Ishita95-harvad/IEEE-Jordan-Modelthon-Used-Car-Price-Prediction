@@ -53,11 +53,35 @@ Here's a summary of the README file:
   
 - category_encoders==2.6.0
   
-## - Installation:
+## Installation:
 
 git clone https://github.com/ishiita95-harvad/jordan-car-prices.git
 cd jordan-car-prices
 pip install -r requirements.txt
+
+## 🏃 Run Model
+
+### Train and validate
+python src/model.py
+
+### Predict on test set
+python src/predict.py --input data/test.csv
+
+### Outputs:
+
+submission.csv: Final price predictions
+
+Console: RMSE scores + model logs
+
+### 📊 Results
+
+**Metric	Value**
+
+Best CV RMSE  (Log)	0.58
+
+Public RMSE	  ~7,000 JOD
+
+Training Time	~45 minutes
   
 
 
