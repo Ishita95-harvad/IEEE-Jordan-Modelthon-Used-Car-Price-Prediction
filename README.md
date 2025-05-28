@@ -1,6 +1,8 @@
 # IEEE-Jordan-Modelthon-Used-Car-Price-Prediction
 
 ### The IEEE Jordan Modelthon - Used Car Price Prediction repository focuses on predicting the sale prices of used cars in Jordan using machine learning techniques. 
+![Header Image](header%20(10).png)
+
 Here's a summary of the README file:
 
 ## Project Overview
