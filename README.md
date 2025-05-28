@@ -73,15 +73,17 @@ submission.csv: Final price predictions
 
 Console: RMSE scores + model logs
 
-### 📊 Results
+#### 📊 Model Performance Results
 
-**Metric	Value**
+| Metric | Value | 
 
-Best CV RMSE  (Log)	0.58
+| Best CV RMSE (Log) | 0.58 | 
 
-Public RMSE	  ~7,000 JOD
+| Public RMSE | ~7,000 JOD | 
 
-Training Time	~45 minutes
+| Training Time | ~45 minutes | 
+
+
   
 
 
